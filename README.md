@@ -2,7 +2,7 @@
 
 ## Purpose 
 
-The purpose of this project is to analyze Amazon reviews written by members of the paid Amazon Vine Program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are required to publish a review.
+The purpose of this project is to analyze reviews from Amazon Vine members. Amazon Vine invites the most trusted reviewers on Amazon to post opinions about products to help their fellow customers make informed purchase decisions. Among 50 data sets, I selected the Video Games data set to use PySpark and perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, I used PySpark, Pandas, and SQL to determine if there is any bias toward favorable reviews from Vine members in the Video Games dataset. 
 
 ## Results 
 
