@@ -24,7 +24,7 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 There is a slight bias from the Vine members, as slightly over half (51%) have given five star reviews. Interestingly, there is an article written in 2021 that discusses how the five-star online review system has become increasingly less useful because most products are now rated positively. Part of the problem is that only customers who have had particularly good or bad experiences tend to write reviews. 
 https://retailwire.com/discussion/do-five-star-ratings-systems-have-a-positivity-problem/#:~:text=A%20university%20study%20finds%20that,reviews%20being%20five%2Dstar%20ratings.
 
-An additional analysis is recommended to support the statement (2 pt)
+I would recommend a 2-sample T-test to test for bias, using the Vine members dataset and non-Vine members dataset specifically for Video Game reviews. To go even deeper, one could take larger samples of all product reviews and compare the Vine members with non-Vine members. 
 
 
 ### SQL Table screenshots 
