@@ -21,9 +21,13 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 
 ## Summary
 
-The summary states whether or not there is bias, and the results support this statement (2 pt)
+There is a slight bias from the Vine members, as slightly over half (51%) have given five star reviews. Interestingly, there is an article written in 2021 that discusses how the five-star online review system has become increasingly less useful because most products are now rated positively. Part of the problem is that only customers who have had particularly good or bad experiences tend to write reviews. 
+https://retailwire.com/discussion/do-five-star-ratings-systems-have-a-positivity-problem/#:~:text=A%20university%20study%20finds%20that,reviews%20being%20five%2Dstar%20ratings.
+
 An additional analysis is recommended to support the statement (2 pt)
 
+
+### SQL Table screenshots 
 
 <img width="294" alt="Screen Shot 2022-07-09 at 8 42 56 PM" src="https://user-images.githubusercontent.com/95447175/178129743-68ab85a2-57d5-4ffd-8aab-f1b3abf083dd.png">
 
