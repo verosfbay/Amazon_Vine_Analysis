@@ -17,6 +17,8 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 
 * About 39% of non-Vine reviews were 5 star reviews, and 51% of Vine reviews were 5 star reviews 
 
+<img width="547" alt="Screen Shot 2022-07-10 at 7 24 32 AM" src="https://user-images.githubusercontent.com/95447175/178146800-9ab0e704-8785-407d-ad96-8635589daf5c.png">
+
 ## Summary
 
 The summary states whether or not there is bias, and the results support this statement (2 pt)
