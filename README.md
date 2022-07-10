@@ -1,11 +1,10 @@
-# Amazon_Vine_Analysis
+# Amazon Vine Analysis
 
-The written analysis has the following:
+## Purpose 
 
-Overview of the analysis of the Vine program:
+The purpose of this project is to analyze Amazon reviews written by members of the paid Amazon Vine Program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are required to publish a review.
 
-The purpose of this analysis is well defined (3 pt)
-Results:
+## Results 
 
 There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
 Summary:
