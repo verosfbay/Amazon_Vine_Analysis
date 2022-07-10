@@ -9,6 +9,9 @@ The purpose of this project is to analyze reviews from Amazon Vine members. Amaz
 Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
 * There were 40565 total reviews, 40471 non-Vine reviews and 94 vine reviews 
+<img width="680" alt="Screen Shot 2022-07-10 at 7 22 26 AM" src="https://user-images.githubusercontent.com/95447175/178146730-b5649a0e-76f0-44e6-85e0-8ba7d593d128.png">
+
+<img width="673" alt="Screen Shot 2022-07-10 at 7 23 01 AM" src="https://user-images.githubusercontent.com/95447175/178146742-00324aec-bd9c-4783-8b87-64436e050737.png">
 
 * 15663 non-Vine reviews were 5 stars, and 48 Vine reviews were 5 stars 
 
