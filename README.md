@@ -6,8 +6,15 @@ The purpose of this project is to analyze reviews from Amazon Vine members. Amaz
 
 ## Results 
 
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
-Summary:
+Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+
+* There were 40565 total reviews, 40471 non-Vine reviews and 94 vine reviews 
+
+* 15663 non-Vine reviews were 5 stars, and 48 Vine reviews were 5 stars 
+
+* About 39% of non-Vine reviews were 5 star reviews, and 51% of Vine reviews were 5 star reviews 
+
+## Summary
 
 The summary states whether or not there is bias, and the results support this statement (2 pt)
 An additional analysis is recommended to support the statement (2 pt)
